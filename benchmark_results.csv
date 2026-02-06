@@ -1,0 +1,2 @@
+Model,Resolution,Batch Size,Avg Latency (ms),FPS,RAM Usage (MB),Device
+YOLOv8n,640x640,1,36.52,27.38,376.74,CPU

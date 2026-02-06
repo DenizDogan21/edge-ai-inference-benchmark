@@ -1,0 +1,5 @@
+# Virtual environments
+yolo_env/
+venv/
+env/
+.venv/
