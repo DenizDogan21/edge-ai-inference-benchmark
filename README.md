@@ -28,3 +28,5 @@ On a CPU-only environment, YOLOv8n achieves approximately 27 FPS with an average
 latency of 36 ms at 640×640 resolution and batch size 1. This makes it suitable
 for real-time inference on mid-range CPUs, while still requiring further
 optimization for edge devices with tighter power and memory constraints.
+
+Note: Results may vary depending on CPU architecture, background processes, and OS.
